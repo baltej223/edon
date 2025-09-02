@@ -1,3 +1,1 @@
-console.log("hello");
-
-;)"hello"(gol.elosnoc
+;)"dlroW olleH"(gol.elosnoc
